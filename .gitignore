@@ -3,5 +3,7 @@ Thumbs.db
 test.txt
 Takahashi.txt
 bluetortoise.txt
+.DS_Store
+Thumbs.db
 .txt
 *.sw?
